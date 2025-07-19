@@ -1,1 +1,4 @@
-python-3.10.13
+Python: 3.11.13 (main, Jun  4 2025, 08:57:29) [GCC 11.4.0]
+sklearn: 1.6.1
+numpy: 2.0.2
+joblib: 1.5.1
